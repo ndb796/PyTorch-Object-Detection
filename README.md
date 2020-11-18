@@ -35,4 +35,4 @@
 |-----------------|---|---|---|
 |Faster RCNN|0.709|0.437|24.5|
 
-* **[학습된 YOLO v5 on Mask Wearing Dataset 모델 다운로드 (315MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EcuZ5uleQ9ZNgVYlxTeGsmkBwL6WnD41WgPbzFyOj-Y-KQ?download=1)**
+* **[학습된 YOLO v5 on Mask Wearing Dataset 모델 다운로드 (14.0MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EcuZ5uleQ9ZNgVYlxTeGsmkBwL6WnD41WgPbzFyOj-Y-KQ?download=1)**
