@@ -15,9 +15,9 @@
 
 #### 2. Training and Testing Mask RCNN with ResNet-50 on Pascal VOC 2007 Dataset
 
-* <b>[학습/평가 전체 소스코드](/Mask_RCNN_with_ResNet_50_on_PASCAL_VOC_2007.ipynb)</b>는 Google Colab을 이용해 실행할 수 있도록 작성 중입니다.
+* <b>[학습/평가 전체 소스코드](/Mask_RCNN_with_ResNet_50_on_PASCAL_VOC_2007.ipynb)</b>는 Google Colab을 이용
 * (Todo) Pascal VOC 2007 format → COCO 2017 format
-* Mask 속성이 존재하지 않기 때문에 Pascal VOC 2007 데이터셋을 COCO 데이터셋으로 포팅할 필요가 있는 것으로 보입니다. ([참고](https://github.com/open-mmlab/mmdetection/issues/26))
+* Mask 속성이 존재하지 않기 때문에 Pascal VOC 2007 데이터셋을 COCO 데이터셋으로 포팅할 필요가 있습니다. ([참고](https://github.com/open-mmlab/mmdetection/issues/26))
 
 #### 3. Training and Testing YOLO v3 with DarkNet-53 on Pascal VOC 2007 Dataset
 
