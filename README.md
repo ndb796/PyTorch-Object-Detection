@@ -65,3 +65,5 @@
 |YOLO v5|0.709|0.437|24.5|
 
 * **[학습된 YOLO v5 on Mask Wearing Dataset 모델 다운로드 (14.0MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EcuZ5uleQ9ZNgVYlxTeGsmkBwL6WnD41WgPbzFyOj-Y-KQ?download=1)**
+
+<img src="https://user-images.githubusercontent.com/16822641/99601513-e568f080-2a42-11eb-8f5b-5c651ae3eefa.png" width="80%">
