@@ -15,6 +15,13 @@
 
 #### 2. Training and Testing Mask RCNN with ResNet-50 on Pascal VOC 2007 Dataset
 
-* <b>[학습/평가 전체 소스코드](/PyTorch_CNN_MNIST_Dataset.ipynb)</b>는 Google Colab을 이용해 실행할 수 있도록 작성 중입니다.
+* <b>[학습/평가 전체 소스코드](/Mask_RCNN_with_ResNet_50_on_PASCAL_VOC_2007.ipynb)</b>는 Google Colab을 이용해 실행할 수 있도록 작성 중입니다.
+* Todo: Pascal VOC 2007 format → COCO 2017 format
+* Mask 속성이 존재하지 않기 때문에 Pascal VOC 2007 데이터셋을 COCO 데이터셋으로 포팅할 필요가 있는 것으로 보입니다. ([참고](https://github.com/open-mmlab/mmdetection/issues/26))
 
-* Todo: Pascal VOC 2007 format → Coco 2017 format
+#### 3. Training and Testing YOLO v3 with DarkNet-53 on Pascal VOC 2007 Dataset
+
+* <b>[학습/평가 전체 소스코드](/YOLO_v3_with_DarkNet_53_on_PASCAL_VOC_2007.ipynb)</b>는 Google Colab을 이용해 실행할 수 있도록 작성 중입니다.
+* 먼저 [Peterisfar](https://github.com/Peterisfar/YOLOV3)의 구현을 참고했으나 학습 속도 및 FPS 속도가 너무 느립니다. (2 FPS)
+* 과제 파일에서 제안한 [eriklindernoren](https://github.com/eriklindernoren/PyTorch-YOLOv3)의 구현을 이용해도 VOC 데이터셋 적용 이슈가 있었습니다.
+* (In progress) MMDetection을 이용해 구현하고자 하였으나, loss가 감소해도 validation mAP가 계속 0이 나오는 이슈가 있습니다.
